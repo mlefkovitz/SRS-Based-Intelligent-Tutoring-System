@@ -20,17 +20,11 @@ The author was unable to implement game-based learning techniques within the lim
 
 The author focuses on three key terms from literature and industry, which are defined below: Intelligent Tutoring Systems (ITS), Game-based learning, Spaced Repetition Systems (SRS).
 
-**Intelligent Tutoring System**
+**Intelligent tutoring systems** (any computer program that contains some intelligence and can be used in learning) apply intelligence to learning by providing prompt and customized feedback to learners.
 
-Intelligent tutoring systems (any computer program that contains some intelligence and can be used in learning) apply intelligence to learning by providing prompt and customized feedback to learners.
+**Game-based learning** refers to the borrowing of certain gaming principles and applying them to real-life settings to engage users. ‘Gamification’ is the application of game-based concepts (like using points, etc) to non-games. 
 
-**Game-based Learning**
-
-Game-based learning refers to the borrowing of certain gaming principles and applying them to real-life settings to engage users. ‘Gamification’ is the application of game-based concepts (like using points, etc) to non-games. 
-
-**Spaced Repetition Systems**
-
-The spacing effect is the observation that people tend to remember things more effectively if they use spaced repetition practice (short study periods spread out over time) as opposed to massed practice (i.e., “cramming”)
+The spacing effect is the observation that people tend to remember things more effectively if they use **spaced repetition** practice (short study periods spread out over time) as opposed to massed practice (i.e., “cramming”)
 
 ### The Problem
 
