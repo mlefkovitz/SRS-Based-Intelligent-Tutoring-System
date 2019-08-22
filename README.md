@@ -20,15 +20,15 @@ The author was unable to implement game-based learning techniques within the lim
 
 The author focuses on three key terms from literature and industry, which are defined below: Intelligent Tutoring Systems (ITS), Game-based learning, Spaced Repetition Systems (SRS).
 
-** Intelligent Tutoring System **
+**Intelligent Tutoring System **
 
 Intelligent tutoring systems (any computer program that contains some intelligence and can be used in learning) apply intelligence to learning by providing prompt and customized feedback to learners.
 
-** Game-based Learning **
+**Game-based Learning **
 
 Game-based learning refers to the borrowing of certain gaming principles and applying them to real-life settings to engage users. ‘Gamification’ is the application of game-based concepts (like using points, etc) to non-games. 
 
-** Spaced Repetition Systems**
+**Spaced Repetition Systems**
 
 The spacing effect is the observation that people tend to remember things more effectively if they use spaced repetition practice (short study periods spread out over time) as opposed to massed practice (i.e., “cramming”)
 
@@ -48,17 +48,17 @@ After researching various open source intelligent tutoring systems (ITS), the au
 
 Originally, the language learning application did not have a system for configuring users. 
 
-** The Data Model**
+**The Data Model**
 
 ![Data Model Diagram](./Data%20Model%20Diagram.png)
 
 A functional intelligent tutoring system needs a student model, a domain model, and a teaching model. These pieces needed to be added. The diagram in the figure above shows the data model of the upgraded learning tool.
 
-** User Interface Changes **
+**User Interface Changes **
 
 A user selection system was added to the user interface. A simple drop-down box is used to select the current user – this is not secure, but for this prototype it should be sufficient.
 
-** Functionality Changes**
+**Functionality Changes**
 
 The original lesson system was adapted to use the new data model.
 
